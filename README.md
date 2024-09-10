@@ -1,27 +1,18 @@
-# PsnStore
+# Recriando a Interface da PlayStation Store com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
+Este projeto visa recriar a interface da PlayStation Store usando o framework Angular. O objetivo é replicar a experiência visual e interativa da loja oficial da PlayStation para fins educacionais e de desenvolvimento.
 
-## Development server
+## Funcionalidades
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Página Inicial**: Exibição de jogos destacados e banners.
+- **Catálogo de Jogos**: Listagem dos jogos disponíveis com opções de filtragem.
 
-## Code scaffolding
+## Tecnologias Utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Angular**: Framework principal para desenvolvimento da aplicação.
+- **TypeScript**: Linguagem de programação utilizada.
+- **HTML/CSS**: Estrutura e estilização da interface.
+- **RxJS**: Para manipulação de dados assíncronos.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://github.com/user-attachments/assets/f2d3a5ce-f15a-4497-8986-10de38206d03)
